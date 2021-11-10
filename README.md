@@ -13,7 +13,7 @@ Language:[中文简体](#zh-hans) || [English](#English)
 
 
 
-[![tianya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbpantianya&count_private=true&show_icons=true&theme=radical)
+![tianya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbpantianya&count_private=true&show_icons=true&theme=radical)
 
 
 
