@@ -1,4 +1,4 @@
-# 关于
+# 关于我
 
 Language:[中文简体](#zh-hans) || [English](#English)
 
