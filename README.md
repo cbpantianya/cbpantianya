@@ -5,7 +5,7 @@
 
 #### Basic Information
 
-Name：Pan Tianya 
+Name：Tianya 
 
 Gender：Male
 
