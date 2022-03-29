@@ -36,8 +36,6 @@ Now Github ID：cbpantianya
 #### Contact Me
 
 - email📧：cbpantianya@163.com
-- TEL📞 ：17858422195
-- QQ📭：1640720671
 
 #### <span id="jump-en">Study Experience Of Go Language⏰</span>
 - Understand basic grammar (structure)
